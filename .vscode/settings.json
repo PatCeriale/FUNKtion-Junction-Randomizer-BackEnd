@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/169c5119-270b-4caf-a209-5a12154ff773/resourceGroups/FUNKtion-Junction/providers/Microsoft.Web/sites/funktion-junction-randomizer-backend",
+    "appService.deploySubpath": "."
+}
